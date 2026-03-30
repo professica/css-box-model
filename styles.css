@@ -307,8 +307,8 @@ img, svg{
     /* add 1rem of padding to all sides */
     /* add a 4px solid yellow border (use the variable for the color) */
     
-    width: calc(100% - 32px);
-    max-width: calc(65ch - 32px);
+    width: calc(100% - 40px);
+    max-width: calc(65ch - 40px);
 }
 
 /* MARGIN SECTION STYLES */
